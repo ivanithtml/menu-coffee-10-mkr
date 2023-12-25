@@ -6609,3 +6609,9 @@ body {
 }
 
 .footer { display: flex; justify-content: center; align-items: center; background-color: #333; color: white; padding: 20px; } .footer a { color: white; text-decoration: none; margin: 0 10px; } .footer a:hover { text-decoration: underline; }
+
+
+.listoc{
+  text-align: center;
+  font-size: 25px;
+}
